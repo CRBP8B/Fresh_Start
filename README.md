@@ -8,4 +8,4 @@ As of 10/15/2017, the supported functionality exists solely for job information:
 
 In future iterations, they will be able to look at available accommodations, as well as leisure activities for a given location.
 
-Contributors: Christian Heatwole and Christopher Becco
+Contributors: Christian Heatwole and Christopher Becco (UMKC Roos 1)
