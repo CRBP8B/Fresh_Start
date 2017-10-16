@@ -12,3 +12,6 @@ Current workflow:
 In future iterations, they will be able to look at available accommodations, as well as leisure activities for a given location.
 
 Contributors: Christian Heatwole and Christopher Becco (UMKC Roos 1)
+
+Youtube Video Presentation:
+https://youtu.be/Mltc2TRdEBM
